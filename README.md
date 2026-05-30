@@ -101,7 +101,7 @@ Aspiring Frontend & Full Stack Developer
 ## 🌐 Project Links
 
 **GitHub Repository:**
-https://github.com/sandeepkuma123s/she-can-foundation
+https://sandeepkuma123s.github.io/she-can-foundation/
 
 **Live Website:**
 https://sandeepkuma123s.github.io/she-can-foundation/
