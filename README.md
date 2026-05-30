@@ -9,8 +9,8 @@ A modern and responsive NGO website developed as part of the **She Can Foundatio
 ## 📸 Website Preview
 
 <p align="center">
-  <img src="<img width="1886" height="915" alt="image22" src="https://github.com/user-attachments/assets/b81bfaad-4ee3-465e-8b01-e842138f3a5c" />
-" alt="She Can Foundation Website Preview" width="100%">
+<img width="1886" height="915" alt="image22" src="https://github.com/user-attachments/assets/198d6068-b92c-4a0e-ad86-c9436b31877f" />
+
 </p>
 
 ---
