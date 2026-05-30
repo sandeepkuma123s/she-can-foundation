@@ -1,4 +1,4 @@
-#  She Can Foundation
+# 🌸 She Can Foundation
 
 ### Empowering Women Through Education, Leadership & Opportunity
 
@@ -9,7 +9,7 @@ A modern and responsive NGO website developed as part of the **She Can Foundatio
 ## 📸 Website Preview
 
 <p align="center">
-  <img src="<img width="1886" height="915" alt="Screenshot 2026-05-30 133737" src="https://github.com/user-attachments/assets/b951a5c1-5a96-48b7-8c51-d3efb23f1d4e" />
+  <img src="<img width="1886" height="915" alt="image22" src="https://github.com/user-attachments/assets/b81bfaad-4ee3-465e-8b01-e842138f3a5c" />
 " alt="She Can Foundation Website Preview" width="100%">
 </p>
 
